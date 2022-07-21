@@ -38,10 +38,10 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
 
-##GitPages URL
+## GitPages URL
  https://dodgemech.github.io/Horiseon-Refactor/
  
- ##Screenshot
+ ## Screenshot
  ![horeison](https://user-images.githubusercontent.com/107086158/180105886-17a63ab4-ae36-4d04-ab88-065ffe5b0912.PNG)
 
 
